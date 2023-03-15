@@ -1,3 +1,3 @@
 # masters
 
-Various projects from my masters program
+Various python projects from my masters program
